@@ -5,7 +5,9 @@ A small, distraction-free writing app for journals, fragments and commonplace no
 > **Status:** Currently in personal testing.  
 > I'm using the app day to day for a while before uploading a public build/source release.
 
-![Writing Deck screenshot](writing-deck-screenshot.png)
+<p align="center">
+  <img src="screenshots/writing-deck-screenshot.png" width="700">
+</p>
 
 ## Why I made this
 
